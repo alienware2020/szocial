@@ -1,0 +1,381 @@
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .main-nav .navbar-nav > li > a {
+        padding: 75px 23px;
+    }
+
+    .slider-top .slider-caption {
+        padding-bottom: 150px;
+        padding-top: 370px;
+    }
+
+    .feature-icon {
+        margin-right: 27px;
+    }
+
+    .client-content .nav > li > a {
+        padding: 35px 38px;
+    }
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-nav .navbar-nav > li > a {
+        font-size: 14px;
+        font-weight: normal;
+        padding: 55px 9px;
+    }
+
+    .slider-top .slider-caption h2 {
+        font-size: 39px;
+    }
+
+    .slider-top .slider-caption {
+        padding-bottom: 100px;
+        padding-top: 250px;
+    }
+
+    .slider-top .slider-caption a {
+        padding: 12px 32px;
+    }
+
+    .main-nav .navbar-brand {
+        padding: 38px 0;
+    }
+
+    .tab-content a {
+        margin-bottom: 30px;
+    }
+
+    .tab-content a {
+        padding: 12px 31px;
+    }
+
+    .circular-bar canvas {
+        height: 155px !important;
+        width: 155px !important;
+    }
+
+    .skill-us .opacity.sec-padding {
+        padding: 130px 0 160px;
+    }
+
+    .single-bar {
+        margin-top: 0px;
+    }
+
+    .feature-icon {
+        font-size: 30px;
+        height: 90px;
+        margin-right: 12px;
+        width: 90px;
+    }
+
+    .post-us .opacity.sec-padding {
+        padding: 110px 0;
+    }
+
+    .post-area {
+        width: 85%;
+    }
+
+    .portfolio_info_img {
+        padding: 20px;
+        right: 10px;
+    }
+
+    .portfolio_info_img a {
+        padding: 5px;
+    }
+
+    .team-us .team-content {
+        margin-bottom: 30px;
+    }
+
+    .pricing-us .pricing-content {
+        margin-bottom: 30px;
+    }
+
+    .blog-content {
+        margin-bottom: 30px;
+    }
+
+    .client-content .nav > li > a {
+        padding: 0 11px 25px;
+    }
+
+    .contact-icon {
+        font-size: 25px;
+        margin-right: 5px;
+        padding: 16px;
+    }
+
+    .contact-icon {
+        height: 55px;
+        padding: 10px 0 0;
+        width: 55px;
+    }
+
+    .contact-text {
+        float: left;
+        width: 160px;
+        padding: 0px;
+    }
+
+    .contact-text h2 {
+        font-size: 20px;
+    }
+
+    #map {
+        height: 400px;
+    }
+}
+
+/* xs */
+@media (max-width: 767px) {
+    .sec-padding {
+        padding: 55px 0;
+    }
+
+    .section-heading {
+        padding-bottom: 45px;
+    }
+
+    .section-heading h1 {
+        font-size: 35px;
+    }
+
+    .main-nav .navbar-brand {
+        padding: 20px 0;
+        margin-left: 15px;
+    }
+
+    .main-nav .navbar-toggle {
+        border-radius: 0;
+        margin-bottom: 0;
+        margin-top: 22px;
+    }
+
+    .main-nav .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: #f06d37;
+    }
+
+    .main-nav .navbar-default .navbar-toggle .icon-bar {
+        background-color: #fff;
+    }
+
+    .main-nav .navbar-nav > li > a {
+        padding: 15px 40px;
+    }
+
+    .slider-top .slider-caption h2 {
+        font-size: 33px;
+    }
+
+    .slider-top .slider-caption {
+        padding-bottom: 50px;
+        padding-top: 170px;
+        font-size: 16px;
+        width: 85%;
+    }
+
+    .slider-top .slider-caption p {
+        padding: 10px 0;
+    }
+
+    .slider-top .slider-caption a {
+        min-width: 188px;
+        padding: 12px 32px;
+    }
+
+    .tab-content a {
+        padding: 12px 31px;
+    }
+
+    .post-accordion button.accordion::after {
+        margin: 0 20px 0 0;
+    }
+
+    .post-accordion button.accordion {
+        font-size: 23px;
+    }
+
+    .about-content {
+        padding-top: 0px;
+    }
+
+    .skill-us .opacity.sec-padding {
+        padding: 100px 0 120px;
+    }
+
+    .single-bar {
+        margin-top: 10px;
+    }
+
+    .feature-icon {
+        font-size: 28px;
+        height: 80px;
+        width: 80px;
+        margin-right: 20px;
+    }
+
+    .feature-icon i {
+        margin-top: 24px;
+    }
+
+    .post-us .opacity.sec-padding {
+        padding: 120px 0;
+    }
+
+    .post-area {
+        width: 90%;
+    }
+
+    .filter_padder {
+        margin: 10px auto;
+    }
+
+    .filter {
+        margin-right: 15px;
+    }
+
+    .team-us .team-content {
+        margin-bottom: 30px;
+    }
+
+    .pricing-us .pricing-content {
+        margin-bottom: 30px;
+    }
+
+    .blog-us .blog-content {
+        margin-bottom: 30px;
+    }
+
+    .client-content .nav-tabs > li {
+        float: none;
+    }
+
+    .client-content .nav > li > a {
+        padding: 15px 0;
+    }
+
+    .client-content ul li.active::before {
+        display: none;
+    }
+
+    .contact-icon {
+        margin-bottom: 30px;
+    }
+
+    #map {
+        height: 250px;
+    }
+
+    .footer-social {
+        padding: 35px 0;
+    }
+
+    .copyright-text {
+        padding: 20px 0;
+    }
+}
+
+
+/* XS Portrait */
+@media (max-width: 479px) {
+    p {
+        line-height: 22px;
+    }
+
+    .section-heading p {
+        line-height: 25px;
+    }
+
+    .section-heading {
+        padding: 0 10px 45px;
+    }
+
+    .section-heading h1 {
+        font-size: 22px;
+    }
+
+    .slider-top .slider-caption {
+        padding-bottom: 30px;
+        padding-top: 130px;
+    }
+
+    .slider-top .slider-caption h2 {
+        font-size: 22px;
+    }
+
+    .slider-top .slider-caption a {
+        margin-bottom: 15px;
+		min-width: 164px;
+		padding: 8px 20px;
+    }	
+
+    .tab-content a {
+        margin-bottom: 15px;
+    }
+
+    .post-accordion button.accordion {
+        font-size: 18px;
+    }
+
+    .post-accordion button.accordion::after {
+        font-size: 15px;
+        margin: 0 10px 0 0;
+        padding: 3px 10px;
+    }
+
+    .post-accordion button.accordion {
+        font-size: 18px;
+    }
+
+    .single-bar {
+        margin-top: 20px;
+    }
+
+    .skill-us .opacity.sec-padding {
+        padding: 60px 0 70px;
+    }
+
+    .post-us .opacity.sec-padding {
+        padding: 70px 0;
+    }
+
+    .feature-icon {
+        margin-right: 6px;
+    }
+
+    .feature-icon {
+        font-size: 30px;
+        height: 80px;
+        width: 80px;
+    }
+
+    .feature-icon i {
+        margin-top: 23px;
+    }
+
+    .feature-text h2 {
+        font-size: 21px;
+    }
+
+    .contact-us .contact-icon {
+        padding: 16px 17px;
+    }
+
+    .subcribe-box .form-control {
+        min-width: 100% !important;
+        padding: 16px 12px;
+    }
+
+    .client-content ul li.active::before {
+        display: none;
+    }
+
+    .contact-icon {
+        margin-right: 12px;
+    }
+}
